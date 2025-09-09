@@ -1,0 +1,14 @@
+D:\Test\Variable Data Type\Variable Data Type\bin\Debug\net8.0\Variable Data Type.exe
+D:\Test\Variable Data Type\Variable Data Type\bin\Debug\net8.0\Variable Data Type.deps.json
+D:\Test\Variable Data Type\Variable Data Type\bin\Debug\net8.0\Variable Data Type.runtimeconfig.json
+D:\Test\Variable Data Type\Variable Data Type\bin\Debug\net8.0\Variable Data Type.dll
+D:\Test\Variable Data Type\Variable Data Type\bin\Debug\net8.0\Variable Data Type.pdb
+D:\Test\Variable Data Type\Variable Data Type\obj\Debug\net8.0\Variable Data Type.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\Variable Data Type\Variable Data Type\obj\Debug\net8.0\Variable Data Type.AssemblyInfoInputs.cache
+D:\Test\Variable Data Type\Variable Data Type\obj\Debug\net8.0\Variable Data Type.AssemblyInfo.cs
+D:\Test\Variable Data Type\Variable Data Type\obj\Debug\net8.0\Variable Data Type.csproj.CoreCompileInputs.cache
+D:\Test\Variable Data Type\Variable Data Type\obj\Debug\net8.0\Variable Data Type.dll
+D:\Test\Variable Data Type\Variable Data Type\obj\Debug\net8.0\refint\Variable Data Type.dll
+D:\Test\Variable Data Type\Variable Data Type\obj\Debug\net8.0\Variable Data Type.pdb
+D:\Test\Variable Data Type\Variable Data Type\obj\Debug\net8.0\Variable Data Type.genruntimeconfig.cache
+D:\Test\Variable Data Type\Variable Data Type\obj\Debug\net8.0\ref\Variable Data Type.dll
