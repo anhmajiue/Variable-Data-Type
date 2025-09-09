@@ -1,10 +1,13 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using System.Text;
+
 int i = 10;
 float f = 20.5f;
 double d = 20.5;
 Boolean b = true;
 char c = 'a';
 String s = "CodeGym";
+Console.OutputEncoding = Encoding.UTF8;
 Console.WriteLine("Giá trị của biến i là " + i);
 Console.WriteLine("Giá trị của biến f là " + f);
 Console.WriteLine("Giá trị của biến d là " + d);
